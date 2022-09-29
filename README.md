@@ -1,5 +1,5 @@
 ## Olá eu sou Dilan Ferrari, Desenvolvedor Front-End Jr!
-<div align="center" margin="25px auto">
+<div align="center" margin-top="25px">
   <a href="https://github.com/rafaballerini">
   <img height="160em" width"45%" src="https://github-readme-stats.vercel.app/api?username=DilanFerrari&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" width"45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanFerrari&layout=compact&langs_count=7&theme=dark"/>
